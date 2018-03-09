@@ -1,2 +1,5 @@
 # hello-world
-My first repo
+
+This is my first repo
+
+And this change is for my first commit
